@@ -44,8 +44,7 @@ If you wish to contribute to the development of the database, send an email to v
 
 
 ## Getting Help or Reporting an Issue
-To report bugs/issues/feature requests, please file an [issue](https://github.com/VeronicaNava/RamanMP/issues).
-
+To report bugs/issues/feature requests, please file an [issue](https://github.com/VeronicaNava/RamanMP/issues).  
 These are very welcome!
 
 ## Citation
