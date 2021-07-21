@@ -1,0 +1,55 @@
+citHeader("To cite RamanMP in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Raman spectroscopy for the analysis of microplastics in aquatic systems",
+  author       = personList(as.person("Veronica Nava"),
+                   as.person("Maria Luce Frezzotti"),
+                   as.person("Barbara Leoni")),
+  journal      = "Applied Spectroscopy",
+  year         = "2021",
+  volume       = "",
+  number       = "",
+  pages        = "",
+  url          = "",
+
+  textVersion  =
+  paste("Nava, V., Frezzotti, M. L., Leoni, B. (2021).",
+        "Raman spectroscopy for the analysis of microplastics in aquatic systems.",
+        "Applied Spectroscopy.")
+)
+
+citHeader("To use the database cite:")
+
+citEntry(entry = "Article",
+  title        = "Raman spectroscopy for the analysis of microplastics in aquatic systems",
+  author       = personList(as.person("Veronica Nava"),
+                   as.person("Maria Luce Frezzotti"),
+                   as.person("Barbara Leoni")),
+  journal      = "Applied Spectroscopy",
+  year         = "2021",
+  volume       = "",
+  number       = "",
+  pages        = "",
+  url          = "",
+
+  textVersion  =
+  paste("Nava, V., Frezzotti, M. L., Leoni, B. (2021).",
+        "Raman spectroscopy for the analysis of microplastics in aquatic systems.",
+        "Applied Spectroscopy.")
+)
+
+citEntry(entry = "Article",
+  title        = "Identification of synthetic organic pigments: the role of a comprehensive digital Raman spectral library",
+  author       = personList(as.person("Win Fremout"),
+                   as.person("Steven Saverwyns")),
+  journal      = "Journal of Raman Spectroscopy",
+  year         = "2012",
+  volume       = "43",
+  number       = "11",
+  pages        = "1536-1544",
+  url          = "https://doi.org/10.1002/jrs.4054",
+
+  textVersion  =
+  paste("Fremout, W., Saverwyns, S. (2012).",
+        "Identification of synthetic organic pigments: the role of a comprehensive digital Raman spectral library", "Journal of Raman Spectroscopy", "43(11): 1536-1544. https://doi.org/10.1002/jrs.4054.")
+)
