@@ -50,7 +50,7 @@ These are very welcome!
 
 ## Citation
 To use the package cite:  
-Nava V., Frezzotti M. L., Leoni B. (2019).
+Nava V., Frezzotti M. L., Leoni B. (2021).
   Raman spectroscopy for the analysis of microplastics in aquatic systems. Submitted.
   
 To use the Raman spectra database cite:  
