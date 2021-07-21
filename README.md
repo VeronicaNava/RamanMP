@@ -2,7 +2,7 @@
 [![](https://cranlogs.r-pkg.org/badges/RamanMP)](https://cran.r-project.org/package=RamanMP)
 
 # RamanMP
-Pre-processing and polymer identification of Raman spectra of plastics. Pre-processing includes normalisation functions, peak identification based on local maxima, smoothing process and removal of spectral region of no interest. Polymer identification can be performed using Pearson correlation coefficient or Euclidean distance (Renner et al. (2019), &lt;doi:10.1016/j.trac.2018.12.004>), and the comparison can be done with a user-defined database or with the database already implemented in the package, which currently includes 356 spectra, with several spectra of plastic colorants.
+Pre-processing and polymer identification of Raman spectra of plastics. Pre-processing includes normalisation functions, peak identification based on local maxima, smoothing process and removal of spectral region of no interest. Polymer identification can be performed using Pearson correlation coefficient or Euclidean distance (Renner et al., 2019; doi:10.1016/j.trac.2018.12.004), and the comparison can be done with a user-defined database or with the database already implemented in the package, which currently includes 356 spectra, with several spectra of plastic colorants.
 
 ## Installation
 You can install a stable version of RamanMP with:  
