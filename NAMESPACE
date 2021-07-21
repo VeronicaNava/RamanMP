@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "convolve", "cor", "dist", "filter", "sd", "na.omit")
+importFrom ("dplyr", "%>%")
+importFrom("imputeTS", "na_interpolation")
