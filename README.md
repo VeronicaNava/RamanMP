@@ -50,11 +50,12 @@ These are very welcome!
 ## Citation
 To use the package cite:  
 Nava V., Frezzotti M. L., Leoni B. (2021).
-  Raman spectroscopy for the analysis of microplastics in aquatic systems. Applied Spectroscopy, 75(11), 1341-1357.
-  
-To use the Raman spectra database cite:  
+  Raman spectroscopy for the analysis of microplastics in aquatic systems. Applied Spectroscopy, 75(11), 1341-1357. https://doi.org/10.1177%2F00037028211043119
+    
+To use the Raman spectra database cite:
 Nava V., Frezzotti M. L., Leoni B. (2021).
-  Raman spectroscopy for the analysis of microplastics in aquatic systems. Applied Spectroscopy, 75(11), 1341-1357.
+  Raman spectroscopy for the analysis of microplastics in aquatic systems. Applied Spectroscopy, 75(11), 1341-1357. https://doi.org/10.1177%2F00037028211043119  
+  
 Fremout W., Saverwyns S. (2012).
   Identification of synthetic organic pigments: the role of a comprehensive digital Raman spectral library, Journal of Raman Spectroscopy, 43(11): 1536-1544. https://doi.org/10.1002/jrs.4054.
 
